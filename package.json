@@ -7,7 +7,7 @@
         "environment",
         "variable",
         "snapshot",
-        "restorer"
+        "restorer",
         "process.env"
     ],
     "repository": {
